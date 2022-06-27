@@ -1,6 +1,6 @@
 
 # NETFLIX DATA ANLYSIS PROJECT
-I Analysed the Netflix dataset for this project and gleaned several insights from it.
+# I Analysed the Netflix dataset for this project and gleaned several insights from it.
 ## Libraries/Packages Used
 
 Numpy, Pandas, Matplotlib, Seaborn
